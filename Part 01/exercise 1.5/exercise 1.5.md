@@ -1,3 +1,4 @@
+```bash
 ❯ docker run -d --name exercise devopsdockeruh/simple-web-service:alpine
 Unable to find image 'devopsdockeruh/simple-web-service:alpine' locally
 alpine: Pulling from devopsdockeruh/simple-web-service

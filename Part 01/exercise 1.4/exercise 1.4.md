@@ -1,3 +1,4 @@
+```bash
 ❯ docker container run -it ubuntu sh -c 'apt-get update && apt-get install curl -y && while true; do echo "Input website:"; read website; echo "Searching.."; sleep 1; curl http://$website; done'
 Get:1 http://archive.ubuntu.com/ubuntu jammy InRelease [270 kB]
 Get:2 http://security.ubuntu.com/ubuntu jammy-security InRelease [110 kB]

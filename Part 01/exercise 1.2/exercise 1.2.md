@@ -1,6 +1,7 @@
-docker ps -a
+```bash
+❯ docker ps -a
 CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 
 
-docker images
+❯ docker images
 REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
